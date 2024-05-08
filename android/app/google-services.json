@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970879388773",
+    "project_id": "mosanada-app",
+    "storage_bucket": "mosanada-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970879388773:android:e7dfa0bd6d519d09a3ca8c",
+        "android_client_info": {
+          "package_name": "com.example.mosanadah2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTUanr5jR8WNvKHa9AR2xZJq0R-67xRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
